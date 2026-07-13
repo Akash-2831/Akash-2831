@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-> **"Hello, I'm Akash — passionate about building intelligent data-driven solutions, uncovering valuable insights through analytics, and developing machine learning applications that solve real-world challenges."**
+> **Hello, I'm Akash passionate about building intelligent data-driven solutions, uncovering valuable insights through analytics, and developing machine learning applications that solve real-world challenges."**
 
 I am an **M.Sc. Data Science** student at **SASTRA University**, driven by an engineering mindset that prioritizes understanding the core logic behind complex systems over simply calling external libraries. My foundation in **B.Sc. Mathematics** fuels my analytical thinking, allowing me to approach Machine Learning challenges from a mathematically rigorous standpoint. 
 
