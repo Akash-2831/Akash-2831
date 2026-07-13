@@ -1,12 +1,12 @@
 # ⚡ Welcome to my Digital Nexus. I am Akash. ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=cdd6f4&background=11111b00&center=true&vCenter=true&width=700&lines=M.Sc.+Data+Science+Student;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=cdd6f4&background=11111b00&center=true&vCenter=true&width=700&lines=M.Sc.+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:akharishragavendar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-[YOUR_EMAIL]-f38ba8?style=for-the-badge&logo=gmail&logoColor=11111b" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-akharishragavendar@gmail.com-f38ba8?style=for-the-badge&logo=gmail&logoColor=11111b" alt="Email" />
   </a>
   <a href="www.linkedin.com/in/akash-t-932377283">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=11111b" alt="LinkedIn" />
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square&color=cba6f7" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Akash-2831&style=flat-square&color=cba6f7" alt="Visitor Counter" />
 </p>
 
 ---
