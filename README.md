@@ -8,16 +8,12 @@
   <a href="mailto:akharishragavendar@gmail.com">
     <img src="https://img.shields.io/badge/Email-akharishragavendar@gmail.com-f38ba8?style=for-the-badge&logo=gmail&logoColor=11111b" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/akash-t-932377283">
+  <a href="https://www.linkedin.com/in/akash-t-932377283/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=11111b" alt="LinkedIn" />
   </a>
   <a href="[YOUR_PORTFOLIO_URL]">
     <img src="https://img.shields.io/badge/Portfolio-Explore-a6e3a1?style=for-the-badge&logo=react&logoColor=11111b" alt="Portfolio" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akash-2831&style=flat-square&color=cba6f7" alt="Visitor Counter" />
 </p>
 
 ---
